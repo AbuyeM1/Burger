@@ -16,7 +16,7 @@ var mysql = require("mysql");
    
     database: "burgers_db"
   });
- };
+ }
   
 
 connection.connect(function (err) {
