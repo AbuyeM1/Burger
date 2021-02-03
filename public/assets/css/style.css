@@ -1,0 +1,27 @@
+
+body {
+    background-image: url("../images/food.png");
+    background-repeat: repeat;
+  }
+  
+  li {
+    padding: 5px;
+    margin: 5px;
+    background: lightgray;
+    list-style-type: none;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: lightgray;
+    list-style-type: none;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
