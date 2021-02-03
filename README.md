@@ -47,7 +47,7 @@
 ## Technonlogy Use
 
  * NODE
- *  MYSQL
+ * MYSQL
  * Experss
  * Handlebars
  * Orm
